@@ -1,0 +1,3 @@
+fio: "Ivanov", tel: "999999999", date: "01.01.1910";
+fio: "Petrov", tel: "999999999";
+fio: "Sidorov", date: "01.01.1910";
